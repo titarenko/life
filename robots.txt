@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://titarenko.github.io/life/sitemap.xml 
+Sitemap: http://life.titarenko.info/sitemap.xml 

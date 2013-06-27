@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Поток "Обычная Жизнь"]]></title>
-  <link href="http://titarenko.github.io/life/atom.xml" rel="self"/>
-  <link href="http://titarenko.github.io/life/"/>
-  <updated>2013-06-28T02:06:15+03:00</updated>
-  <id>http://titarenko.github.io/life/</id>
+  <title><![CDATA[Поток &guot;Обычная Жизнь&guot;]]></title>
+  <link href="http://life.titarenko.info/atom.xml" rel="self"/>
+  <link href="http://life.titarenko.info/"/>
+  <updated>2013-06-28T02:22:42+03:00</updated>
+  <id>http://life.titarenko.info/</id>
   <author>
     <name><![CDATA[Константин Титаренко]]></name>
     
@@ -15,17 +15,17 @@
   
   <entry>
     <title type="html"><![CDATA[Родина моя]]></title>
-    <link href="http://titarenko.github.io/life/2013/06/27/rodina-moia/"/>
+    <link href="http://life.titarenko.info/2013/06/27/rodina-moia/"/>
     <updated>2013-06-27T18:00:00+03:00</updated>
-    <id>http://titarenko.github.io/life/2013/06/27/rodina-moia</id>
+    <id>http://life.titarenko.info/2013/06/27/rodina-moia</id>
     <content type="html"><![CDATA[<p>Степь в июне прекрасна. Несмотря на то, что Донбасс &ndash; индустриальный, воздухом приятно дышать. Катаясь июньским днем можно даже уловить запах меда в дуновении ветра.</p>
 
-<p><img src="http://titarenko.github.io/life/images/content/field-of-gold.jpg">
-<img src="http://titarenko.github.io/life/images/content/spica.jpg"></p>
+<p><img src="http://life.titarenko.info/images/content/field-of-gold.jpg">
+<img src="http://life.titarenko.info/images/content/spica.jpg"></p>
 
 <p>В детстве слышал, что подсолнухи поворачиваются в течении дня вслед за солнцем. Сегодня обратил внимание, что это далеко не так.</p>
 
-<p><img src="http://titarenko.github.io/life/images/content/sunflowers.jpg"></p>
+<p><img src="http://life.titarenko.info/images/content/sunflowers.jpg"></p>
 
 <p>Подсолнухи здесь повернулись к солнцу &ldquo;спиной&rdquo;, &ndash; да, сегодня было довольно жарко.</p>
 ]]></content>
