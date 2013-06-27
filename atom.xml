@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Поток &guot;Обычная Жизнь&guot;]]></title>
+  <title><![CDATA[Поток &quot;Обычная Жизнь&quot;]]></title>
   <link href="http://life.titarenko.info/atom.xml" rel="self"/>
   <link href="http://life.titarenko.info/"/>
-  <updated>2013-06-28T02:22:42+03:00</updated>
+  <updated>2013-06-28T02:24:41+03:00</updated>
   <id>http://life.titarenko.info/</id>
   <author>
     <name><![CDATA[Константин Титаренко]]></name>
