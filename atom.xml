@@ -4,7 +4,7 @@
   <title><![CDATA[Поток &quot;Обычная Жизнь&quot;]]></title>
   <link href="http://life.titarenko.info/atom.xml" rel="self"/>
   <link href="http://life.titarenko.info/"/>
-  <updated>2013-06-28T02:24:41+03:00</updated>
+  <updated>2013-06-28T09:39:24+03:00</updated>
   <id>http://life.titarenko.info/</id>
   <author>
     <name><![CDATA[Константин Титаренко]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Песенка о Тяпе]]></title>
+    <link href="http://life.titarenko.info/2013/06/28/piesienka-o-tiapie/"/>
+    <updated>2013-06-28T07:00:00+03:00</updated>
+    <id>http://life.titarenko.info/2013/06/28/piesienka-o-tiapie</id>
+    <content type="html"><![CDATA[<blockquote><p>А пес себе без всяких философий завалится на лапы головою.</p></blockquote>
+
+<p>Прекрасно!</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/0qAdsM4DthY "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Родина моя]]></title>

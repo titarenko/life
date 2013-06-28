@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: youtube | Поток &quot;Обычная Жизнь&quot;]]></title>
+  <link href="http://life.titarenko.info/blog/categories/youtube/atom.xml" rel="self"/>
+  <link href="http://life.titarenko.info/"/>
+  <updated>2013-06-28T09:39:24+03:00</updated>
+  <id>http://life.titarenko.info/</id>
+  <author>
+    <name><![CDATA[Константин Титаренко]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Песенка о Тяпе]]></title>
+    <link href="http://life.titarenko.info/2013/06/28/piesienka-o-tiapie/"/>
+    <updated>2013-06-28T07:00:00+03:00</updated>
+    <id>http://life.titarenko.info/2013/06/28/piesienka-o-tiapie</id>
+    <content type="html"><![CDATA[<blockquote><p>А пес себе без всяких философий завалится на лапы головою.</p></blockquote>
+
+<p>Прекрасно!</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/0qAdsM4DthY "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
