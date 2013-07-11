@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: youtube, | Поток &quot;Обычная Жизнь&quot;]]></title>
+  <title><![CDATA[Category: youtube | Поток &quot;Обычная Жизнь&quot;]]></title>
   <link href="http://life.titarenko.info/blog/categories/youtube/atom.xml" rel="self"/>
   <link href="http://life.titarenko.info/"/>
-  <updated>2013-07-11T21:55:30+03:00</updated>
+  <updated>2013-07-12T00:46:13+03:00</updated>
   <id>http://life.titarenko.info/</id>
   <author>
     <name><![CDATA[Константин Титаренко]]></name>
@@ -18,11 +18,24 @@
     <link href="http://life.titarenko.info/2013/07/11/if-i-could-fly/"/>
     <updated>2013-07-11T21:30:00+03:00</updated>
     <id>http://life.titarenko.info/2013/07/11/if-i-could-fly</id>
-    <content type="html"><![CDATA[<p>&ldquo;If I could fly, see the world from my eyes&rdquo; &ndash; &ldquo;Если бы я мог летать, видеть мир собственными глазами&rdquo;: это ведь как Хеллоуин хорошо подметил! Видеть мир <em>собственными</em> глазами!</p>
+    <content type="html"><![CDATA[<blockquote><p>&ldquo;If I could fly, see the world from my eyes&rdquo; &ndash; &ldquo;Если бы я мог летать, видеть мир собственными глазами&rdquo;</p></blockquote>
+
+<p>Это ведь как Хеллоуин хорошо подметил! Видеть мир <em>собственными</em> глазами!</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/9mFvI2wjg7Y "></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Песенка о Тяпе]]></title>
+    <link href="http://life.titarenko.info/2013/06/28/piesienka-o-tiapie/"/>
+    <updated>2013-06-28T07:00:00+03:00</updated>
+    <id>http://life.titarenko.info/2013/06/28/piesienka-o-tiapie</id>
+    <content type="html"><![CDATA[<blockquote><p>А пес себе без всяких философий завалится на лапы головою.</p></blockquote>
 
-<p>Банально, но глаза &ndash; сенсоры, а видит &ndash; мозг: обрабатывает импульсы, создает картинку, распознает образы, по ним анализирует ситуацию. Последние этапы &ldquo;настраиваются&rdquo; жизнью в социуме. Значит то, как выглядит мир, определяет общество. Вот и живи потом: в настоящем мире, или чьем-то?</p>
+<p>Прекрасно!</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/0qAdsM4DthY "></iframe></div></p>
 ]]></content>
   </entry>
   
