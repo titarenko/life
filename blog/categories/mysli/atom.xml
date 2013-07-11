@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: youtube, | Поток &quot;Обычная Жизнь&quot;]]></title>
-  <link href="http://life.titarenko.info/blog/categories/youtube/atom.xml" rel="self"/>
+  <title><![CDATA[Category: мысли | Поток &quot;Обычная Жизнь&quot;]]></title>
+  <link href="http://life.titarenko.info/blog/categories/mysli/atom.xml" rel="self"/>
   <link href="http://life.titarenko.info/"/>
   <updated>2013-07-11T21:55:30+03:00</updated>
   <id>http://life.titarenko.info/</id>
